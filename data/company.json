@@ -1,0 +1,94 @@
+{
+  "name": "K.L.A.S. Dienstleistungs GmbH",
+  "founded": 1997,
+  "area": "2000+ m²",
+  "tagline": {
+    "de": "Maßgeschneiderte industrielle Dienstleistungen aus einer Hand.",
+    "en": "Tailor-made industrial services from a single source.",
+    "tr": "Tek noktadan özel endüstriyel hizmetler."
+  },
+  "about": {
+    "de": "Seit 1997 unterstützt K.L.A.S. Dienstleistungs GmbH führende Unternehmen aus Industrie, Handel und Logistik bei der Konfektionierung, Etikettierung und Verpackung ihrer Produkte. Unser Team kombiniert langjährige Erfahrung mit modernen Anlagen, um höchste Qualität, Geschwindigkeit und Flexibilität zu gewährleisten.",
+    "en": "Since 1997 K.L.A.S. Dienstleistungs GmbH has supported leading companies from industry, retail and logistics with assembly, labeling and packaging services. Our team combines decades of experience with modern equipment to deliver maximum quality, speed and flexibility.",
+    "tr": "K.L.A.S. Dienstleistungs GmbH 1997'den beri sanayi, perakende ve lojistik sektörlerindeki lider firmalara konfeksiyon, etiketleme ve paketleme hizmetleri sunuyor. Deneyimli ekibimiz, modern ekipmanla bir araya gelerek en yüksek kaliteyi, hızı ve esnekliği garanti eder."
+  },
+  "mission": {
+    "de": "Wir sorgen dafür, dass Ihre Produkte zur richtigen Zeit, im richtigen Zustand und mit der richtigen Botschaft bei Ihren Kunden ankommen.",
+    "en": "We make sure your products reach your customers at the right time, in perfect condition and with the right message.",
+    "tr": "Ürünlerinizin müşterilerinize doğru zamanda, doğru durumda ve doğru mesajla ulaşmasını sağlıyoruz."
+  },
+  "usps": {
+    "de": [
+      "Zertifizierte Qualitätssicherung",
+      "Kurze Reaktionszeiten",
+      "Flexible Produktionslinien",
+      "Persönliche Projektbetreuung"
+    ],
+    "en": [
+      "Certified quality assurance",
+      "Short reaction times",
+      "Flexible production lines",
+      "Dedicated project management"
+    ],
+    "tr": [
+      "Sertifikalı kalite güvencesi",
+      "Kısa reaksiyon süreleri",
+      "Esnek üretim hatları",
+      "Özel proje yönetimi"
+    ]
+  },
+  "values": {
+    "de": [
+      "Verlässlichkeit und Termintreue",
+      "Transparente Kommunikation",
+      "Sorgfalt bei jedem Arbeitsschritt",
+      "Langfristige Partnerschaften"
+    ],
+    "en": [
+      "Reliability and on-time delivery",
+      "Transparent communication",
+      "Attention to detail in every step",
+      "Long-term partnerships"
+    ],
+    "tr": [
+      "Güvenilirlik ve zamanında teslimat",
+      "Şeffaf iletişim",
+      "Her adımda titizlik",
+      "Uzun vadeli iş ortaklıkları"
+    ]
+  },
+  "timeline": [
+    {
+      "year": 1997,
+      "event": {
+        "de": "Gründung der K.L.A.S. Dienstleistungs GmbH in Nordrhein-Westfalen.",
+        "en": "K.L.A.S. Dienstleistungs GmbH founded in North Rhine-Westphalia.",
+        "tr": "K.L.A.S. Dienstleistungs GmbH Kuzey Ren-Vestfalya'da kuruldu."
+      }
+    },
+    {
+      "year": 2005,
+      "event": {
+        "de": "Erweiterung der Produktionsfläche auf über 1.500 m².",
+        "en": "Production space expanded to more than 1,500 m².",
+        "tr": "Üretim alanı 1.500 m²'nin üzerine çıkarıldı."
+      }
+    },
+    {
+      "year": 2012,
+      "event": {
+        "de": "Investition in neue Verpackungslinien und Etikettiertechnik.",
+        "en": "Investment in new packaging lines and labeling technology.",
+        "tr": "Yeni paketleme hatlarına ve etiketleme teknolojisine yatırım yapıldı."
+      }
+    },
+    {
+      "year": 2020,
+      "event": {
+        "de": "Digitalisierung der Produktionsplanung und Ausbau der Qualitätskontrolle.",
+        "en": "Digitalized production planning and expanded quality control.",
+        "tr": "Üretim planlaması dijitalleştirildi ve kalite kontrolü genişletildi."
+      }
+    }
+  ]
+}

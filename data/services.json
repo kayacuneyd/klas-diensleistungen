@@ -1,0 +1,304 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "slug": "konfektionieren",
+      "icon": "📦",
+      "image": "konfektionieren.jpg",
+      "title": {
+        "de": "Konfektionieren",
+        "en": "Assembly",
+        "tr": "Montaj"
+      },
+      "short_description": {
+        "de": "Professionelle Konfektionierung Ihrer Produkte nach individuellen Anforderungen.",
+        "en": "Professional assembly of your products according to individual requirements.",
+        "tr": "Bireysel gereksinimlere göre ürünlerinizin profesyonel montajı."
+      },
+      "full_description": {
+        "de": "Unsere Konfektionierungsdienstleistungen umfassen die komplette Aufbereitung und Zusammenstellung Ihrer Produkte. Vom einfachen Zusammenfügen bis hin zu komplexen Montagearbeiten – wir bieten maßgeschneiderte Lösungen für Ihre Anforderungen. Mit modernsten Anlagen und erfahrenem Personal garantieren wir höchste Qualität und Präzision.",
+        "en": "Our assembly services include the complete preparation and compilation of your products. From simple assembly to complex assembly work – we offer tailored solutions for your requirements. With state-of-the-art facilities and experienced staff, we guarantee the highest quality and precision.",
+        "tr": "Montaj hizmetlerimiz ürünlerinizin tam hazırlanmasını ve bir araya getirilmesini içerir. Basit birleştirmeden karmaşık montaj işlerine kadar – gereksinimlerinize göre özelleştirilmiş çözümler sunuyoruz. En modern tesisler ve deneyimli personelle en yüksek kalite ve hassasiyeti garanti ediyoruz."
+      },
+      "benefits": {
+        "de": [
+          "Flexible Kapazitäten",
+          "Schnelle Bearbeitungszeiten",
+          "Qualitätskontrolle nach DIN-Normen",
+          "Individuelle Lösungen"
+        ],
+        "en": ["Flexible capacities", "Fast processing times", "Quality control according to DIN standards", "Individual solutions"],
+        "tr": ["Esnek kapasiteler", "Hızlı işlem süreleri", "DIN standartlarına göre kalite kontrol", "Bireysel çözümler"]
+      },
+      "industries": {
+        "de": ["Automobilindustrie", "Verlagswesen", "E-Commerce", "Pharma"],
+        "en": ["Automotive", "Publishing", "E-Commerce", "Pharma"],
+        "tr": ["Otomotiv", "Yayıncılık", "E-Ticaret", "Farma"]
+      },
+      "process_steps": {
+        "de": [
+          "Auftragsannahme und Planung",
+          "Material bereitstellen",
+          "Konfektionierung durchführen",
+          "Qualitätsprüfung",
+          "Verpackung und Versand"
+        ],
+        "en": ["Order acceptance and planning", "Material provision", "Assembly execution", "Quality check", "Packaging and shipping"],
+        "tr": ["Sipariş kabulü ve planlama", "Malzeme temini", "Montaj gerçekleştirme", "Kalite kontrolü", "Paketleme ve gönderim"]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "einstecken",
+      "icon": "📬",
+      "image": "einstecken.jpg",
+      "title": {
+        "de": "Einstecken",
+        "en": "Insertion",
+        "tr": "Yerleştirme"
+      },
+      "short_description": {
+        "de": "Präzises Einstecken von Beilagen, Flyern und Werbemitteln in Ihre Produkte.",
+        "en": "Precise insertion of inserts, flyers and promotional materials into your products.",
+        "tr": "Ekler, el ilanları ve tanıtım materyallerinin ürünlerinize hassas yerleştirilmesi."
+      },
+      "full_description": {
+        "de": "Professionelles Einstecken von Beilagen, Werbeprospekten und Zusatzmaterialien in Ihre Produkte. Unsere hochmodernen Einsteckmaschinen ermöglichen eine präzise und effiziente Bearbeitung verschiedenster Formate. Wir gewährleisten fehlerfreie Verarbeitung und hohe Geschwindigkeiten.",
+        "en": "Professional insertion of inserts, advertising brochures and additional materials into your products. Our state-of-the-art insertion machines enable precise and efficient processing of various formats. We guarantee error-free processing and high speeds.",
+        "tr": "Ekler, reklam broşürleri ve ek materyallerin ürünlerinize profesyonel yerleştirilmesi. En modern yerleştirme makinelerimiz çeşitli formatların hassas ve verimli işlenmesini sağlar. Hatasız işleme ve yüksek hızlar garanti ediyoruz."
+      },
+      "benefits": {
+        "de": ["Hohe Geschwindigkeit", "Fehlerfreie Verarbeitung", "Verschiedene Formate möglich"],
+        "en": ["High speed", "Error-free processing", "Various formats possible"],
+        "tr": ["Yüksek hız", "Hatasız işleme", "Çeşitli formatlar mümkün"]
+      },
+      "industries": {
+        "de": ["Direktmarketing", "Verlagswesen", "Einzelhandel"],
+        "en": ["Direct marketing", "Publishing", "Retail"],
+        "tr": ["Doğrudan pazarlama", "Yayıncılık", "Perakende"]
+      },
+      "process_steps": {
+        "de": ["Materialprüfung", "Maschinelle Verarbeitung", "Stichprobenprüfung", "Verpackung"],
+        "en": ["Material inspection", "Machine processing", "Sample check", "Packaging"],
+        "tr": ["Malzeme kontrolü", "Makine işleme", "Numune kontrolü", "Paketleme"]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "buendeln",
+      "icon": "🎁",
+      "image": "buendeln.jpg",
+      "title": {
+        "de": "Bündeln",
+        "en": "Bundling",
+        "tr": "Demetleme"
+      },
+      "short_description": {
+        "de": "Effizientes Bündeln von Produkten für Transport und Lagerung.",
+        "en": "Efficient bundling of products for transport and storage.",
+        "tr": "Taşıma ve depolama için ürünlerin verimli demetlenmesi."
+      },
+      "full_description": {
+        "de": "Wir bündeln Ihre Produkte schnell und sicher für den Transport und die Lagerung. Unsere Bündelungsverfahren gewährleisten optimale Platznutzung und Transporteffizienz. Wir bieten verschiedene Bündelgrößen und -methoden an, die individuell auf Ihre Bedürfnisse zugeschnitten sind.",
+        "en": "We bundle your products quickly and safely for transport and storage. Our bundling processes ensure optimal space utilization and transport efficiency. We offer various bundle sizes and methods tailored to your individual needs.",
+        "tr": "Ürünlerinizi taşıma ve depolama için hızlı ve güvenli bir şekilde demetleriz. Demetleme süreçlerimiz optimal alan kullanımı ve taşıma verimliliği sağlar. Bireysel ihtiyaçlarınıza göre özelleştirilmiş çeşitli demet boyutları ve yöntemleri sunuyoruz."
+      },
+      "benefits": {
+        "de": ["Platzsparend", "Transportsicher", "Individuelle Bündelgrößen"],
+        "en": ["Space-saving", "Transport-safe", "Individual bundle sizes"],
+        "tr": ["Yer tasarrufu", "Taşıma güvenliği", "Bireysel demet boyutları"]
+      },
+      "industries": {
+        "de": ["Logistik", "Druckereien", "Großhandel"],
+        "en": ["Logistics", "Printing", "Wholesale"],
+        "tr": ["Lojistik", "Baskı", "Toptan satış"]
+      },
+      "process_steps": {
+        "de": ["Sortierung", "Bündelung", "Banderolierung", "Etikettierung"],
+        "en": ["Sorting", "Bundling", "Banding", "Labeling"],
+        "tr": ["Sıralama", "Demetleme", "Bantlama", "Etiketleme"]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "einschrumpfen",
+      "icon": "🔥",
+      "image": "einschrumpfen.jpg",
+      "title": {
+        "de": "Einschrumpfen / Einschweißen",
+        "en": "Shrink Wrapping",
+        "tr": "Shrink Ambalaj"
+      },
+      "short_description": {
+        "de": "Schutz und Präsentation Ihrer Produkte durch professionelles Schrumpfen.",
+        "en": "Protection and presentation of your products through professional shrink wrapping.",
+        "tr": "Profesyonel shrink ambalaj ile ürünlerinizin korunması ve sunumu."
+      },
+      "full_description": {
+        "de": "Durch Einschrumpfen oder Einschweißen schützen wir Ihre Produkte optimal vor Umwelteinflüssen und Beschädigungen. Unsere modernen Schrumpfanlagen gewährleisten eine gleichmäßige, professionelle Verarbeitung. Die transparente Folie präsentiert Ihr Produkt ansprechend und schützt gleichzeitig vor Staub, Feuchtigkeit und anderen äußeren Einflüssen.",
+        "en": "Through shrink wrapping or sealing, we optimally protect your products from environmental influences and damage. Our modern shrink systems ensure uniform, professional processing. The transparent film presents your product attractively while protecting it from dust, moisture and other external influences.",
+        "tr": "Shrink ambalaj veya mühürleme yoluyla ürünlerinizi çevresel etkilerden ve hasardan en iyi şekilde koruruz. Modern shrink sistemlerimiz düzgün, profesyonel işleme sağlar. Şeffaf film, ürününüzü çekici bir şekilde sunarken aynı zamanda toz, nem ve diğer dış etkilerden korur."
+      },
+      "benefits": {
+        "de": ["Optimaler Schutz", "Ansprechende Optik", "Hygienisch"],
+        "en": ["Optimal protection", "Attractive appearance", "Hygienic"],
+        "tr": ["Optimal koruma", "Çekici görünüm", "Hijyenik"]
+      },
+      "industries": {
+        "de": ["Lebensmittel", "Kosmetik", "Elektronik"],
+        "en": ["Food", "Cosmetics", "Electronics"],
+        "tr": ["Gıda", "Kozmetik", "Elektronik"]
+      },
+      "process_steps": {
+        "de": ["Vorbereitung", "Foliierung", "Schrumpftunnel", "Endkontrolle"],
+        "en": ["Preparation", "Foiling", "Shrink tunnel", "Final inspection"],
+        "tr": ["Hazırlık", "Folyolama", "Shrink tüneli", "Son kontrol"]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "etikettieren",
+      "icon": "🏷️",
+      "image": "etikettieren.jpg",
+      "title": {
+        "de": "Etikettieren",
+        "en": "Labeling",
+        "tr": "Etiketleme"
+      },
+      "short_description": {
+        "de": "Professionelle Etikettierung nach Ihren Vorgaben und gesetzlichen Anforderungen.",
+        "en": "Professional labeling according to your specifications and legal requirements.",
+        "tr": "Özelliklerinize ve yasal gereksinimlere göre profesyonel etiketleme."
+      },
+      "full_description": {
+        "de": "Wir etikettieren Ihre Produkte präzise und zuverlässig nach Ihren individuellen Vorgaben. Unsere Hochgeschwindigkeits-Etikettiermaschinen ermöglichen eine schnelle und fehlerfreie Verarbeitung. Wir unterstützen verschiedene Etikettenarten, einschließlich Barcode-Etiketten und RFID-Tags. Alle unsere Etikettiervorgänge erfüllen die gesetzlichen Anforderungen.",
+        "en": "We label your products precisely and reliably according to your individual specifications. Our high-speed labeling machines enable fast and error-free processing. We support various label types, including barcode labels and RFID tags. All our labeling processes comply with legal requirements.",
+        "tr": "Ürünlerinizi bireysel özelliklerinize göre hassas ve güvenilir bir şekilde etiketleriz. Yüksek hızlı etiketleme makinelerimiz hızlı ve hatasız işleme sağlar. Barkod etiketleri ve RFID etiketleri dahil olmak üzere çeşitli etiket türlerini destekliyoruz. Tüm etiketleme süreçlerimiz yasal gereksinimlere uygundur."
+      },
+      "benefits": {
+        "de": ["Verschiedene Etikettenarten", "Hochgeschwindigkeit", "Barcode-Integration"],
+        "en": ["Various label types", "High speed", "Barcode integration"],
+        "tr": ["Çeşitli etiket türleri", "Yüksek hız", "Barkod entegrasyonu"]
+      },
+      "industries": {
+        "de": ["Lebensmittel", "Pharma", "Logistik", "Einzelhandel"],
+        "en": ["Food", "Pharma", "Logistics", "Retail"],
+        "tr": ["Gıda", "Farma", "Lojistik", "Perakende"]
+      },
+      "process_steps": {
+        "de": ["Etikettendruck", "Positionierung", "Aufbringung", "Kontrolle"],
+        "en": ["Label printing", "Positioning", "Application", "Control"],
+        "tr": ["Etiket baskısı", "Konumlandırma", "Uygulama", "Kontrol"]
+      }
+    },
+    {
+      "id": 6,
+      "slug": "zusammentragen",
+      "icon": "📚",
+      "image": "zusammentragen.jpg",
+      "title": {
+        "de": "Zusammentragen",
+        "en": "Collating",
+        "tr": "Harmanlama"
+      },
+      "short_description": {
+        "de": "Exaktes Zusammentragen von Druckerzeugnissen und Dokumenten.",
+        "en": "Exact collating of printed materials and documents.",
+        "tr": "Basılı malzemelerin ve belgelerin tam harmanlanması."
+      },
+      "full_description": {
+        "de": "Professionelles Zusammentragen verschiedener Materialien zu vollständigen Sets oder Dokumentationen. Unsere Zusammentragmaschinen gewährleisten eine fehlerfreie Sortierung und Zusammenstellung auch bei großen Auflagen. Wir arbeiten mit verschiedenen Formaten und Materialstärken und bieten flexible Lösungen für Ihre individuellen Anforderungen.",
+        "en": "Professional collating of various materials into complete sets or documentation. Our collating machines ensure error-free sorting and compilation even with large runs. We work with various formats and material thicknesses and offer flexible solutions for your individual requirements.",
+        "tr": "Çeşitli malzemelerin eksiksiz setler veya dokümantasyon halinde profesyonel harmanlanması. Harmanlama makinelerimiz, büyük baskılarda bile hatasız sıralama ve derleme sağlar. Çeşitli formatlar ve malzeme kalınlıklarıyla çalışıyoruz ve bireysel gereksinimleriniz için esnek çözümler sunuyoruz."
+      },
+      "benefits": {
+        "de": ["Fehlerfreie Sortierung", "Hohe Kapazität", "Flexible Formate"],
+        "en": ["Error-free sorting", "High capacity", "Flexible formats"],
+        "tr": ["Hatasız sıralama", "Yüksek kapasite", "Esnek formatlar"]
+      },
+      "industries": {
+        "de": ["Druckereien", "Verlagswesen", "Büroservice"],
+        "en": ["Printing", "Publishing", "Office services"],
+        "tr": ["Baskı", "Yayıncılık", "Ofis hizmetleri"]
+      },
+      "process_steps": {
+        "de": ["Material sortieren", "Zusammentragen", "Prüfen", "Bündeln"],
+        "en": ["Sort material", "Collate", "Check", "Bundle"],
+        "tr": ["Malzeme sıralama", "Harmanlama", "Kontrol", "Demetleme"]
+      }
+    },
+    {
+      "id": 7,
+      "slug": "verpacken",
+      "icon": "📦",
+      "image": "verpacken.jpg",
+      "title": {
+        "de": "Verpacken",
+        "en": "Packaging",
+        "tr": "Paketleme"
+      },
+      "short_description": {
+        "de": "Sichere und professionelle Verpackung für jeden Bedarf.",
+        "en": "Safe and professional packaging for every need.",
+        "tr": "Her ihtiyaç için güvenli ve profesyonel paketleme."
+      },
+      "full_description": {
+        "de": "Wir bieten maßgeschneiderte Verpackungslösungen für alle Arten von Produkten. Von einfachen Kartons bis hin zu speziellen Schutzverpackungen – wir finden die optimale Lösung für Ihre Bedürfnisse. Unsere Verpackungsmaterialien erfüllen höchste Qualitätsstandards und wir berücksichtigen auch umweltfreundliche Optionen. Jede Verpackung wird sorgfältig ausgeführt, um maximale Transportsicherheit zu gewährleisten.",
+        "en": "We offer customized packaging solutions for all types of products. From simple boxes to special protective packaging – we find the optimal solution for your needs. Our packaging materials meet the highest quality standards and we also consider eco-friendly options. Each package is carefully executed to ensure maximum transport safety.",
+        "tr": "Her türlü ürün için özelleştirilmiş paketleme çözümleri sunuyoruz. Basit kutulardan özel koruyucu ambalajlara kadar – ihtiyaçlarınız için optimal çözümü buluyoruz. Paketleme malzemelerimiz en yüksek kalite standartlarını karşılar ve çevre dostu seçenekleri de göz önünde bulunduruyoruz. Her paket, maksimum taşıma güvenliğini sağlamak için dikkatle gerçekleştirilir."
+      },
+      "benefits": {
+        "de": ["Verschiedene Verpackungsarten", "Transportsicher", "Umweltfreundliche Optionen"],
+        "en": ["Various packaging types", "Transport-safe", "Eco-friendly options"],
+        "tr": ["Çeşitli paketleme türleri", "Taşıma güvenliği", "Çevre dostu seçenekler"]
+      },
+      "industries": {
+        "de": ["E-Commerce", "Logistik", "Einzelhandel"],
+        "en": ["E-Commerce", "Logistics", "Retail"],
+        "tr": ["E-Ticaret", "Lojistik", "Perakende"]
+      },
+      "process_steps": {
+        "de": ["Verpackungsmaterial wählen", "Produkt sichern", "Versiegeln", "Etikettieren"],
+        "en": ["Choose packaging material", "Secure product", "Seal", "Label"],
+        "tr": ["Paketleme malzemesi seçme", "Ürünü güvence altına alma", "Mühürleme", "Etiketleme"]
+      }
+    },
+    {
+      "id": 8,
+      "slug": "kommissionieren",
+      "icon": "📋",
+      "image": "kommissionieren.jpg",
+      "title": {
+        "de": "Kommissionieren",
+        "en": "Order Picking",
+        "tr": "Sipariş Toplama"
+      },
+      "short_description": {
+        "de": "Effiziente Kommissionierung für optimale Logistikprozesse.",
+        "en": "Efficient order picking for optimal logistics processes.",
+        "tr": "Optimal lojistik süreçler için verimli sipariş toplama."
+      },
+      "full_description": {
+        "de": "Schnelle und präzise Kommissionierung Ihrer Aufträge mit modernsten Methoden und Systemen. Wir gewährleisten eine fehlerminimierte Kommissionierung durch systematische Abläufe und qualifiziertes Personal. Unsere Kommissionierprozesse sind darauf ausgelegt, Durchlaufzeiten zu minimieren und gleichzeitig höchste Genauigkeit zu gewährleisten. Wir bieten verschiedene Kommissionierstrategien, um Ihre Lagerbestände optimal zu nutzen.",
+        "en": "Fast and precise picking of your orders using state-of-the-art methods and systems. We ensure error-minimized picking through systematic processes and qualified personnel. Our picking processes are designed to minimize turnaround times while ensuring the highest accuracy. We offer various picking strategies to optimally utilize your inventory.",
+        "tr": "En modern yöntemler ve sistemler kullanarak siparişlerinizin hızlı ve hassas toplanması. Sistematik süreçler ve kalifiye personel aracılığıyla hata minimizasyonlu toplama sağlıyoruz. Toplama süreçlerimiz, en yüksek doğruluğu sağlarken işlem sürelerini minimize etmek için tasarlanmıştır. Envanterinizi optimal kullanmak için çeşitli toplama stratejileri sunuyoruz."
+      },
+      "benefits": {
+        "de": ["Fehlerminimierung", "Schnelle Durchlaufzeit", "Lageroptimierung"],
+        "en": ["Error minimization", "Fast turnaround", "Inventory optimization"],
+        "tr": ["Hata minimizasyonu", "Hızlı işlem", "Envanter optimizasyonu"]
+      },
+      "industries": {
+        "de": ["E-Commerce", "Großhandel", "Lagerlogistik"],
+        "en": ["E-Commerce", "Wholesale", "Warehouse logistics"],
+        "tr": ["E-Ticaret", "Toptan satış", "Depo lojistiği"]
+      },
+      "process_steps": {
+        "de": ["Auftragseingang", "Picking", "Kontrolle", "Versandvorbereitung"],
+        "en": ["Order receipt", "Picking", "Control", "Shipping preparation"],
+        "tr": ["Sipariş alımı", "Toplama", "Kontrol", "Gönderim hazırlığı"]
+      }
+    }
+  ]
+}
+

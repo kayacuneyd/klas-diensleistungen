@@ -1,0 +1,184 @@
+/* Custom CSS for K.L.A.S. Website */
+
+/* Base styles */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Custom color overrides */
+.text-blue-900 {
+    color: #1e3a8a;
+}
+
+.bg-blue-900 {
+    background-color: #1e3a8a;
+}
+
+.bg-blue-700 {
+    background-color: #1e40af;
+}
+
+.bg-blue-600 {
+    background-color: #2563eb;
+}
+
+.hover\:bg-blue-700:hover {
+    background-color: #1d4ed8;
+}
+
+.text-orange-400 {
+    color: #fb923c;
+}
+
+.text-orange-500 {
+    color: #f97316;
+}
+
+.bg-orange-500 {
+    background-color: #f97316;
+}
+
+.hover\:bg-orange-600:hover {
+    background-color: #ea580c;
+}
+
+/* Navigation styles */
+.nav-link {
+    position: relative;
+    padding-bottom: 6px;
+    transition: color 0.3s ease;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, #1e3a8a, #f97316);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.text-blue-900::after {
+    transform: scaleX(1);
+}
+
+/* Form styles */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+    transition: all 0.3s ease;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+/* Button hover effects */
+button,
+a.button,
+a[class*="bg-"] {
+    transition: all 0.3s ease;
+}
+
+/* Service cards */
+.service-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1.25rem;
+    min-height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: #fff;
+    box-shadow: 0 20px 45px rgba(15, 23, 42, 0.2);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.service-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: var(--card-bg);
+    background-size: cover;
+    background-position: center;
+    transform: scale(1.05);
+    transition: transform 0.6s ease;
+}
+
+.service-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(15, 23, 42, 0.1) 20%, rgba(15, 23, 42, 0.9) 100%);
+    transition: opacity 0.4s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 30px 60px rgba(15, 23, 42, 0.3);
+}
+
+.service-card:hover::before {
+    transform: scale(1.15);
+}
+
+.service-card-content {
+    position: relative;
+    z-index: 2;
+}
+
+/* Smooth scrolling */
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+/* Print styles */
+@media print {
+    header,
+    footer,
+    nav {
+        display: none;
+    }
+}
+
+/* Accessibility improvements */
+a:focus,
+button:focus {
+    outline: 2px solid #f97316;
+    outline-offset: 2px;
+}
+
+/* Mobile menu animation */
+[x-cloak] {
+    display: none !important;
+}
+
+/* Custom container max-width */
+.container {
+    max-width: 1200px;
+}
+
+/* Loading state */
+.loading {
+    opacity: 0.6;
+    pointer-events: none;
+}
