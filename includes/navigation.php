@@ -42,8 +42,7 @@
                 'tr' => ['label' => 'Türkçe (TR)'],
             ];
             ?>
-            <div class="hidden md:flex items-center space-x-2">
-                <label for="desktop-language" class="text-xs uppercase tracking-wide text-slate-500"><?php echo t('language'); ?></label>
+            <div class="hidden md:flex items-center">
                 <select id="desktop-language"
                         class="bg-white border border-gray-200 rounded-md px-3 py-2 text-sm text-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-200"
                         onchange="if(this.value){window.location.href=this.value;}">
@@ -72,8 +71,7 @@
                 <li><a href="<?php echo url('kontakt'); ?>" class="block py-2 px-3 rounded-lg hover:bg-gray-50 transition <?php echo is_active_page('kontakt') === 'active' ? 'text-blue-900 font-semibold' : ''; ?>"><?php echo t('kontakt'); ?></a></li>
                 <li><a href="<?php echo url('anfahrt'); ?>" class="block py-2 px-3 rounded-lg hover:bg-gray-50 transition <?php echo is_active_page('anfahrt') === 'active' ? 'text-blue-900 font-semibold' : ''; ?>"><?php echo t('anfahrt'); ?></a></li>
                 <li class="pt-2 border-t border-gray-200">
-                    <div class="flex items-center space-x-2">
-                        <label for="mobile-language" class="text-sm text-slate-500"><?php echo t('language'); ?></label>
+                    <div class="flex items-center">
                         <select id="mobile-language"
                                 class="flex-1 bg-white border border-gray-200 rounded-md px-3 py-2 text-sm text-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-200"
                                 onchange="if(this.value){window.location.href=this.value;}">
